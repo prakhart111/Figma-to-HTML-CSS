@@ -4,6 +4,18 @@
 *Provides code in the CONSOLE*
 **Uses TypeScript**
 
+## Demonstration
+
+1- The selected frame and the Plugin UI window.
+![Screenshot 2023-02-08 172523](https://user-images.githubusercontent.com/86708181/217523554-5f00baa3-7da0-49da-9be4-704128796284.png)
+
+2- Generated Code
+![Screenshot 2023-02-08 172605](https://user-images.githubusercontent.com/86708181/217523721-1f946b20-5fd1-42a8-a2a0-6c0d23026876.png)
+
+3- Verfiying the generated code in CodePen
+![Screenshot 2023-02-08 172729](https://user-images.githubusercontent.com/86708181/217523834-c638733a-bd0b-4cec-ab02-286496f4f94b.png)
+
+
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/setup/
