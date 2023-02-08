@@ -1,7 +1,7 @@
 ### A Figma Plugin
-### Generates HTML and basic CSS code for given design
+### Generates HTML and basic CSS code for given design 
 #### Under Development
-
+*Provides code in the CONSOLE*
 **Uses TypeScript**
 
 Below are the steps to get your plugin running. You can also find instructions at:
