@@ -1,10 +1,16 @@
 {
-  "name": "export-dualite",
-  "id": "1204882389277814475",
+  "name": "prakhar-plugin-v1",
+  "id": "1231291503790550424",
   "api": "1.0.0",
   "main": "code.js",
   "editorType": [
     "figma"
   ],
-  "ui": "ui.html"
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "*"
+    ],
+    "reasoning": "we need to access all domains to fetch data (testing purposes) from the internet"
+  }
 }
